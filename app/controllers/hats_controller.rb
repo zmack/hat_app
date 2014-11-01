@@ -1,0 +1,2 @@
+class HatsController < ApplicationController
+end
